@@ -8,6 +8,3 @@ I worked on another Power BI project to strengthen my skills in data modeling, D
 - Translating raw data into meaningful insights for decision‑making
 🔹 Why this project matters:
 Hospital emergency rooms deal with critical situations where time, patient flow, and resource allocation are key. This dashboard highlights how data can improve operational efficiency, patient satisfaction, and healthcare outcomes.
-
-यह description आपके learning journey + practical impact दोनों को दिखाता है।
-क्या आप चाहेंगे कि मैं इसका एक Hinglish engaging version भी बना दूँ ताकि LinkedIn पर थोड़ा ज़्यादा personal और relatable लगे?
