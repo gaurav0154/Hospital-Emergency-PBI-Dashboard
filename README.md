@@ -20,68 +20,81 @@ Patients Referred: 3,816
 Patients Admitted: 50.04%
 Patients Not Admitted: 49.96%
 📈 Dashboard Features
-1. Patient Distribution Analysis
+1️⃣ Patient Distribution Analysis
 Patients segmented by age groups (0–79 years)
 Balanced distribution across all age categories
-2. Department Referral Insights
+2️⃣ Department Referral Insights
 Highest referrals:
-None: 5.4K (walk-in / general cases)
+None: 5.4K (general or walk-in cases)
 General Practice: 1.8K
 Orthopedics: 1.0K
-Lower referrals in specialized departments like Neurology, Cardiology, etc.
-3. Admission Analysis
-Almost equal split between admitted and non-admitted patients
-Indicates efficient triage system
-4. Wait Time Performance
+Lower referrals:
+Physiotherapy
+Cardiology
+Neurology
+Gastroenterology
+Renal
+3️⃣ Admission Analysis
+Admitted: 50.04%
+Not Admitted: 49.96%
+
+➡️ Indicates an efficient and balanced triage system
+
+4️⃣ Wait Time Performance
 59.32% patients seen within 30 minutes
-40.68% target missed
-Shows opportunity to improve operational efficiency
-5. Demographics Analysis
-Gender Distribution
+40.68% patients missed the target
+
+➡️ Shows scope for improving operational efficiency
+
+5️⃣ Demographics Analysis
+👤 Gender Distribution
 Male: 51.05%
 Female: 48.69%
 Not Confirmed: 0.26%
-Race Distribution
+🌍 Race Distribution
 White: 2.6K
 African American: 2.0K
 Two or More Races: 1.6K
 Asian: 1.1K
 Others included
-6. Time-Based Analysis
-Daily Trends
+6️⃣ Time-Based Analysis
+📅 Daily Trends
 Highest patient flow on Saturday (1377 patients)
-Consistent flow across all days
-Hourly Trends
-Peak hours distributed across the day
-Slight spikes during morning and evening slots
-7. Monthly & Detailed Views
-Interactive filters for:
+Consistent distribution across all days
+⏰ Hourly Trends
+Patient flow distributed across all hours
+Slight peaks during morning and evening
+7️⃣ Monthly & Detailed Views
+Interactive filters:
 Date range
 Month
 Year
-Drill-down into individual patient records
+Drill-down capability:
+Individual patient records
+Admission details
+Department referrals
 🛠️ Tools & Technologies Used
 Power BI Desktop
-Data Cleaning & Transformation (Power Query)
+Power Query (Data Cleaning)
 Data Modeling
 DAX (Data Analysis Expressions)
 Interactive Visualizations
 💡 Key Insights
-⚖️ Balanced Admission Rate: Nearly 50-50 split suggests efficient patient screening
-⏱️ Wait Time Issue: 40% patients not meeting 30-min target → improvement area
-🏥 High “No Referral” Cases: Indicates many general or minor cases
-📅 Weekend Load Higher: Staffing should be optimized for weekends
-👥 Even Demographic Spread: No major bias in patient distribution
-📊 Consistent Daily Flow: Predictable demand helps in resource planning
+⚖️ Balanced admission rate (~50-50 split)
+⏱️ 40% patients not meeting wait time target
+🏥 High number of “No Referral” cases (general visits)
+📅 Weekend patient load is higher
+👥 Even demographic distribution
+📊 Stable and predictable daily patient flow
 🚀 Business Impact
-Helps hospital management optimize staff allocation
-Identifies bottlenecks in patient handling
-Improves patient satisfaction and service delivery
-Supports data-driven decision making
-Enables better resource and department planning
+Helps optimize staff allocation
+Identifies operational bottlenecks
+Improves patient satisfaction
+Enables data-driven decision making
+Supports better resource planning
 📌 Conclusion
 
-This dashboard provides a comprehensive view of hospital operations, highlighting both strengths and areas for improvement.
+This dashboard provides a comprehensive view of hospital operations, highlighting strengths and improvement areas.
 
 It demonstrates strong skills in:
 
@@ -89,8 +102,3 @@ Data visualization
 Business analysis
 KPI tracking
 Insight generation
-📎 How to Use
-Open the Power BI file
-Use filters (Date, Month, Year)
-Interact with charts for deeper insights
-Explore patient-level details
